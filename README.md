@@ -1,24 +1,12 @@
-## Hello! I'm Minu 👋
+## Hello! I'm Minu ✨
 
 ![Banner Image](https://github.com/mjdmminu99/mjdmminu99/blob/main/banner_mj.png)
 
 <!--
 **mjdmminu99/mjdmminu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me:
+I am a software engineer and web developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a software engineer and Web Developer
-🌱 I’m currently learning Python and Vue.js.
-👯 I’m looking to collaborate with other Developers 😉
-💬 Ask me about anything, I am happy to help 😄
-📬 How to reach me: Let's get in touch!
+
 
